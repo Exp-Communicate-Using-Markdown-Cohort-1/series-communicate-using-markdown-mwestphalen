@@ -6,3 +6,8 @@
 ```Java
 System.out.println("Hello World!");
 ```
+## Task List
+- [x] Add image example
+- [x] Add code snippet
+- [x] Add this task list
+- [ ] Merge pull request 
